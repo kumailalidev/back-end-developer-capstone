@@ -1,2 +1,6 @@
+# Folders
 .vscode/
 .venv/
+
+# Test Script
+program.py
