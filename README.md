@@ -3,10 +3,11 @@
 
 ### **API Endpoints**
 ```
-/auth/token/login/
-/auth/token/logout/
-/api/menu/
-/api/menu/{id}
-/api/registration/booking/
-/api/registration/booking/tables/
+API Homepage:       /api/
+Menu Items:         /api/menu/
+Single Menu Item:   /api/menu/{id}
+Registration:       /api/registration/booking/
+Booking:            /api/registration/booking/tables/
+Login:              /auth/token/login/
+Logout:             /auth/token/logout/
 ```
